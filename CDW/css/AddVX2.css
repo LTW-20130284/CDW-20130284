@@ -1,0 +1,84 @@
+.contai {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  align-items: center;
+  margin-top: 10px;
+  text-align: center;
+}
+.conta {
+  height: 750px;
+  width: 1000px;
+  background-color: rgb(218, 240, 240);
+  border-radius: 10px;
+}
+.provice {
+  margin: 30px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-weight: bold;
+  color: rgb(53, 53, 65);
+  padding-left: 90px;
+}
+.poce {
+  margin-right: 15px;
+}
+.prod1 {
+  height: 30px;
+  width: 500px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-left: 10px;
+}
+.prod2 {
+  height: 30px;
+  width: 500px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-left: 90px;
+}
+.prod3 {
+  height: 60px;
+  width: 500px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-left: 70px;
+}
+
+.prod4 {
+  height: 30px;
+  width: 500px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-left: 80px;
+}
+
+.prod5 {
+  height: 30px;
+  width: 500px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-left: 50px;
+}
+
+.prod6 {
+  height: 30px;
+  width: 430px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
+
+.prod7 {
+  height: 30px;
+  width: 500px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-left: 40px;
+}
+.prod8 {
+  height: 30px;
+  width: 430px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}

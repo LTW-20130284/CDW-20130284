@@ -1,0 +1,102 @@
+.con{
+   box-sizing: border-box;
+  margin-top: 150px;
+}
+.con .configuration{
+    width: 900px; 
+    margin-left: 200px;
+}
+.con .configuration .td{
+   font-size: 20px;
+   font-weight: 700;
+
+}
+.con .configuration .row1{
+  display: flex;
+    margin-top: 10px;
+}
+
+.con .configuration .row1 .form-group-tt1 label{
+    font-size: 18px;
+    font-weight: 600;
+}
+.con .configuration .row1 .form-group-tt1 .input1{
+    margin: 0;
+}
+.con .configuration .row1 .form-group-tt1 .input1 input{
+    width: 400px;
+    height: 30px;
+}
+.con .configuration .row1 .form-group-tt2{
+    margin-left: 185px;
+}
+.con .configuration .row1 .form-group-tt2 label{
+    font-size: 18px;
+    font-weight: 600;
+}
+.con .configuration .row1 .form-group-tt2 .input2{
+    margin: 0;
+}
+.con .configuration .row1 .form-group-tt2 .input2 input{
+    width: 300px;
+    height: 30px;
+}
+.con .configuration .row2{
+    display: flex;
+      margin-top: 10px;
+      
+  }
+
+  .con .configuration .row3{
+        display: flex;
+      margin-top: 10px;
+     
+  }
+  .con .configuration .row3 .form-group-tt4 label{
+    font-weight: 600;
+  }
+  .con .configuration .row3 .form-group-tt4 .provinceVT{
+   height: 30px;
+   width: 160px;
+  }
+  .con .configuration .row3 .form-group-tt5{
+    margin-left: 40px;
+  }
+  .con .configuration .row3 .form-group-tt5 label{
+    font-weight: 600;
+  }
+.con .configuration .row3 .form-group-tt5 .input3{
+    height: 25px;
+    width: 200px;
+}
+.con .product label{
+    font-size: 18px;
+    font-weight: 600;
+
+}
+.con .product select{
+    width: 900px;
+    height: 30px;
+}
+.con .product{
+    margin-top: 10px;
+}
+.con .product .inputk{
+    width: 400px;
+    height: 30px;
+}
+.con .btn-sub{
+    margin-top: 30px;
+   
+}
+.con .btn-sub button{
+    background: blue;
+    color: aliceblue;
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+}
+.con .btn-sub button:hover{
+    background-color: #3399FF;
+    
+}

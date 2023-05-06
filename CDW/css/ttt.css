@@ -1,0 +1,8 @@
+.ttctt{
+  max-width: 1170px;
+  margin: 0 auto;
+}
+.ttctt th{
+  background-color: black;
+  color: aliceblue;
+}
